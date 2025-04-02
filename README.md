@@ -16,6 +16,12 @@ Kubescape is a Kubernetes security scanner that checks clusters for misconfigura
 
 ## 🔧 Getting Started
 
+### 📂 Navigate to the Kubescape Directory
+
+Before running the scan, navigate to your project directory:  
+
+``` cd ~/kubescape ```
+
 ### 1️⃣ Start Minikube
 
 Run the following command to start Minikube:
